@@ -1,0 +1,1 @@
+export let api='https://6a7f3d133183f5fd884afbf2.mockapi.io/users'
